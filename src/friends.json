@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Man City",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png"
+  },
+  {
+    "id": 2,
+    "name": "Arsenal",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png"
+  },
+  {
+    "id": 3,
+    "name": "Spurs",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png"
+  },
+  {
+    "id": 4,
+    "name": "Liverpool",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png"
+  },
+  {
+    "id": 5,
+    "name": "Chelsea",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png"
+  },
+  {
+    "id": 6,
+    "name": "Man Utd",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png"
+   },
+  {
+    "id": 7,
+    "name": "West Ham",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png"  },
+  {
+    "id": 8,
+    "name": "Everton",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png"  },
+  {
+    "id": 9,
+    "name": "Wolves",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png"  },
+  {
+    "id": 10,
+    "name": "Leicester",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png"  },
+  {
+    "id": 11,
+    "name": "NewCastle",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png" },
+  {
+    "id": 12,
+    "name": "Watford",
+    "image": "https://images.fotmob.com/image_resources/logo/teamlogo/9817.png"
+  }
+]
